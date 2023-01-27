@@ -34,7 +34,7 @@ padding-top:20px;padding-bottom:20px;"> <br>
 </div>
 <br>
 
- &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub top language](https://img.shields.io/github/languages/top/AdonisJeronimo/************************t?style=plastic)
+ &nbsp;&nbsp;&nbsp;&nbsp; ![GitHub top language](https://img.shields.io/github/languages/top/AdonisJeronimo/02-Challenge-ProfileCardComponent?style=plastic)
 
 ###  <b> Processo de desenvolvimento <b> ⌨️🖱
 
